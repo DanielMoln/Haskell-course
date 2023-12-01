@@ -5,6 +5,9 @@ Multiline comment
 import Data.List
 import System.IO
 
+tuple1 :: (Int, Int)
+tuple1 = (3, 2)
+
 maxInt = maxBound :: Int
 minInt = minBound :: Int
 
