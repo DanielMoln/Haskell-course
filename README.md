@@ -2,7 +2,8 @@
 ```
 Az eddigi összes órai anyag kijegyzetelve és egy .hs fájlba gyűjtve!
 
-## Témák:
+Témák:
+
 - Commentek
 - Data Types
 - Math Functions
